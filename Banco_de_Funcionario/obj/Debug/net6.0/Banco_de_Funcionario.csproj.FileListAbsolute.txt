@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\bin\Debug\net6.0\Banco_de_Funcionario.exe
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\bin\Debug\net6.0\Banco_de_Funcionario.deps.json
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\bin\Debug\net6.0\Banco_de_Funcionario.runtimeconfig.json
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\bin\Debug\net6.0\Banco_de_Funcionario.dll
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\bin\Debug\net6.0\Banco_de_Funcionario.pdb
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.dll
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\refint\Banco_de_Funcionario.dll
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.pdb
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\Banco_de_Funcionario.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\Banco_de_Funcionario\Banco_de_Funcionario\obj\Debug\net6.0\ref\Banco_de_Funcionario.dll
